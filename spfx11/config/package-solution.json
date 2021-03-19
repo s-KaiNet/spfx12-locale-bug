@@ -1,0 +1,20 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-11-client-side-solution",
+    "id": "bad0cb00-a82b-46be-92d0-af677298e24d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": ""
+    }
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-11.sppkg"
+  }
+}
